@@ -46,4 +46,4 @@ In our circuit, the **battery provides the electrical energy**, the **LED conver
 Now let's see what the Arduino can do. Instead of having the LED connected directly to a battery, we can have the **Arduino control when the LED turns on and off**. We get to decide exactly when this happens using code. This is what we'll be learning throughout this guide: **how to use code to control electricity and build things with it.**
 
 
-The first step is getting the software we'll use to program our Arduino. We'll use the **Arduino IDE**. It's the program where we write our Arduino code and upload it to te arduino. You can download it from the [official Arduino website](https://www.arduino.cc/en/software/).
+The first step is getting the software we'll use to program our Arduino. We'll use the **Arduino IDE**. It's the program where we write our Arduino code and upload it to the arduino. You can download it from the [official Arduino website](https://www.arduino.cc/en/software/).
