@@ -1,5 +1,12 @@
 site_name: Arduino Guide
 
+nav:
+  - Welcome: index.md
+  - Getting Started: getting-started.md
+  - God of the LEDs: controlling-leds.md
+  - Project Night Light : nightlight.md
+
+
 theme:
   name: materialx
   logo: assets/cyberclub.png
