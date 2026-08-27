@@ -1,4 +1,4 @@
-# God of the LEDs
+# Working with LEDs
 
 ## Making LEDs Blink
 
